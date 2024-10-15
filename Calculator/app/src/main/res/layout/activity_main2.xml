@@ -101,7 +101,7 @@
         app:layout_constraintBottom_toTopOf="@id/num4"
         app:layout_constraintWidth_percent="0.24"
         app:layout_constraintHeight_percent="0.12"
-       />
+        />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/num8"
@@ -158,7 +158,7 @@
         app:layout_constraintBottom_toTopOf="@id/num1"
         app:layout_constraintWidth_percent="0.24"
         app:layout_constraintHeight_percent="0.12"
-         />
+        />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/num5"
